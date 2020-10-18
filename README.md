@@ -1,4 +1,4 @@
-# Dynome
+# TimeSync
 This is a Hackathon Project which is built in span of 24 hours.
 
 Hackathons are a great place to collaborate with others and make awesome projects!
