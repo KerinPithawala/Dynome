@@ -7,4 +7,4 @@ But when you are building a Hack with teammates from a different timezone, thing
 
 We have developed a web-app that detects users' timezones by location and converts other detect timezones in chat or web page to users' timezone, and a simple scheduler to help users to find the best time to meet.
 
-To use our project, head over here [our website]  https://timesync.online/
+To use our project, head over here our website:  https://timesync.online/
